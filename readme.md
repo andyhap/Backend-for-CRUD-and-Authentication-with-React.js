@@ -39,6 +39,7 @@ Server running on port 5000
 Database connected & synced
 ```
 
-### postman
+## postman
 https://documenter.getpostman.com/view/49108277/2sB3WqufTu
+
 
