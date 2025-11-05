@@ -17,7 +17,7 @@ DB_USER=postgres
 DB_HOST=localhost
 DB_NAME=(your db name)
 DB_PASS=(your db password)
-DB_PORT=(your cb port)
+DB_PORT=(your db port)
 DB_DIALECT=postgres
 JWT_SECRET=(jwt secret)
 ```
@@ -41,3 +41,4 @@ Database connected & synced
 
 ### postman
 https://documenter.getpostman.com/view/49108277/2sB3WqufTu
+
