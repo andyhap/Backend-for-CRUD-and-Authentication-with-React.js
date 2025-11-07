@@ -23,8 +23,8 @@ JWT_SECRET=(jwt secret)
 ```
 JWT secret can be generated from: https://www.jwt.io/
 
-### Running user_management_api
-Next, you can run the user_management_api by typing:
+### Running Backend
+Next, you can run Backend by typing:
 
 ```bash
 node index.js
@@ -41,5 +41,6 @@ Database connected & synced
 
 ## postman
 https://documenter.getpostman.com/view/49108277/2sB3WqufTu
+
 
 
